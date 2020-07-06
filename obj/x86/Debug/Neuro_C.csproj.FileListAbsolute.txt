@@ -1,0 +1,24 @@
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\bin\Debug\Neuro_C.exe
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\bin\Debug\Neuro_C.pdb
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\Neuro_C.exe
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\Neuro_C.pdb
+D:\Documents\Projects\Test\Neuro_C\obj\x86\Debug\Neuro_C.exe
+D:\Documents\Projects\Test\Neuro_C\obj\x86\Debug\Neuro_C.pdb
+D:\Documents\Projects\Test\Neuro_C\bin\Debug\Neuro_C.exe
+D:\Documents\Projects\Test\Neuro_C\bin\Debug\Neuro_C.pdb
+D:\Documents\Projects\Test\Neuro_C\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents\Projects\Test\Neuro_C\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documents\Projects\Test\Neuro_C\obj\x86\Debug\Neuro_C.csproj.GenerateResource.Cache
+D:\Documents\Projects\Test\Neuro_C\obj\x86\Debug\Neuro_C.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Teaching\KnowledgeRepresentation\NeuralNetwork\obj\x86\Debug\Neuro_C.exe
+D:\Documents\Projects\Teaching\KnowledgeRepresentation\NeuralNetwork\obj\x86\Debug\Neuro_C.pdb
+D:\Documents\Projects\Teaching\KnowledgeRepresentation\NeuralNetwork\bin\Debug\Neuro_C.exe
+D:\Documents\Projects\Teaching\KnowledgeRepresentation\NeuralNetwork\bin\Debug\Neuro_C.pdb
+D:\Documents\Projects\Teaching\KnowledgeRepresentation\NeuralNetwork\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+D:\Documents\Projects\Teaching\KnowledgeRepresentation\NeuralNetwork\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documents\Projects\Teaching\KnowledgeRepresentation\NeuralNetwork\obj\x86\Debug\Neuro_C.csproj.GenerateResource.Cache
